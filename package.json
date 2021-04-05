@@ -7,5 +7,8 @@
   },
   "keywords": ["chai", "chai-plugin", "css"],
   "author": "Brian Blosser <bpb54321@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "url": "git@github.com:bpb54321/chai-styles-dimensions.git"
+  }
 }
