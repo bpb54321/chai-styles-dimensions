@@ -1,0 +1,11 @@
+{
+  "name": "chai-styles-dimensions",
+  "version": "1.0.0",
+  "description": "Computed style and dimension assertions for the Chai assertion library",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": ["chai", "chai-plugin", "css"],
+  "author": "Brian Blosser <bpb54321@gmail.com>",
+  "license": "ISC"
+}
