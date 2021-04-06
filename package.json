@@ -1,6 +1,6 @@
 {
   "name": "chai-styles-dimensions",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Computed style and dimension assertions for the Chai assertion library",
   "main": "index.js",
   "scripts": {},
